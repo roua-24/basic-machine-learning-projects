@@ -1,8 +1,9 @@
-## Machine Learning Basics Projects## 
+## Machine Learning Basics Projects
 This repository contains basic machine learning projects created to understand and apply fundamental ML concepts such as data preprocessing, feature extraction, model training, and evaluation.
 
 The projects focus on classification and prediction tasks using simple and beginner-friendly approaches.
 Projects Included
+
  **Gender Recognition**
 **Objective:** Predict gender based on given features (e.g., voice or numerical characteristics).
 
